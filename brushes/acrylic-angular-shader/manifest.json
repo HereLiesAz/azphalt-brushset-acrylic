@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-acrylic-angular-shader",
+  "name": "Angular Shader",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "LicenseRef-Proprietary",
+  "compat": ">=0.1",
+  "description": "A wide, softer flat brush for shading and blocking in color. Rotate with angle.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "acrylic",
+        "shader",
+        "angular"
+      ],
+      "params": {
+        "spacing": 0.05,
+        "angle": 0,
+        "roundness": 0.32,
+        "flowByPressure": false
+      }
+    }
+  ]
+}

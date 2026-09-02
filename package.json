@@ -1,0 +1,9 @@
+{
+  "name": "@azphalt/azphalt-brush-acrylic",
+  "version": "1.0.0",
+  "description": "4 azphalt brush packages: Flat, Round, Angular Shader, Sponge Dab.",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
